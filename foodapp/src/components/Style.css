@@ -1,0 +1,67 @@
+.restaurantcard{
+    border: 1px solid black;
+    height: 400px;    
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+
+
+.restaurantcard:hover{
+    background-color: #ece4e2;
+
+}
+
+.restaurentcardimg{
+    height: 50%;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.restaurentCardContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.navul{
+    list-style-type: none ;
+    border: 1px solid black;
+    background-color: #393646;
+    color: #F4EEE0;
+    margin: 1px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.navul li{
+    display: inline;
+    margin: 3%;
+    
+}
+
+
+.navul li a{
+
+    text-decoration: none;
+    color: #F4EEE0;
+
+}
+
+
+body{
+    background-color: #F4EEE0;
+}
+
+.Shimmercard{
+    border: 1px solid black;
+    height: 300px;    
+    width: 250px;
+    margin: 10px;
+    text-align: center;
+    background-color: #6D5D6E;
+
+}
